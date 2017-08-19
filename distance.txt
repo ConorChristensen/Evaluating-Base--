@@ -1,0 +1,2 @@
+The minimum number of steps between the two permutations is:  
+4
