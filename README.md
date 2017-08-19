@@ -1,4 +1,6 @@
-# Evaluating-Base--Background on Permutations
+# Evaluating-Base--
+Background on Permutations:
+
 The number of permutations of N distinct elements is N factorial, denoted as N!. The factorial
 of N is the product of all positive integers less than or equal to N: N! = 1 × 2 × 3 × · · · × N.
 Denote the set of all permutations of N (distinct) elements in a set by SN . For example, the
